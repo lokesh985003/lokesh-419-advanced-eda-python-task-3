@@ -187,4 +187,3 @@ If this project helped you, please give it a ⭐.
 Thank you for checking my work.
 
 
-### ✔ Maximum Product of Two Elements
